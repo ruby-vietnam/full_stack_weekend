@@ -8,14 +8,15 @@ Xin các bạn tham khảo trước thông tin sau để tiện cho việc
 hỏi đáp với mentor và cũng để tránh nhầm lẫn về mục đích
 của sự kiện.
 
-## Quy tắc ứng xử
+# RUBY + ELIXIR WEEKEND là gì?
+Đây là sự kiện nhằm giao lưu, tăng khả năng làm việc nhóm giữa những
+người có những kĩ năng khác nhau... TBD
 
-Khi bạn tham gia sự kiện này, chúng tôi có yêu cầu
-bạn tuân thủ theo những [quy tắc ứng xử](http://ruby.org.vn/code-of-conduct.html). 
+## Bạn sẽ nhận được gì từ sự kiện này?
+TBD
 
-Hãy "Be Nice", cở mở và học hỏi lẫn nhau
 
-## Làm gì tại sự kiện?
+## Bạn cần chuẩn bị những gì
 
 Xin lưu ý sự kiện này không giống meetup, có nghĩa là
 sẽ không có một diễn giả trình bày về một chủ để nào cả.
@@ -44,6 +45,17 @@ nhiều giá trị học hỏi.
 
 Xin bạn giữ ý tránh làm phiền các bạn khác đang làm
 dự án và yêu cầu được làm việc riêng một mình.
+
+
+
+# Những chú ý
+
+## Quy tắc ứng xử
+
+Khi bạn tham gia sự kiện này, chúng tôi có yêu cầu
+bạn tuân thủ theo những [quy tắc ứng xử](http://ruby.org.vn/code-of-conduct.html). 
+
+Hãy "Be Nice", cở mở và học hỏi lẫn nhau
 
 ## Danh sách các mentor
 
