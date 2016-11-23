@@ -66,7 +66,7 @@ Xin hãy mang theo laptop để tránh bị thụ động!
 Khi bạn tham gia sự kiện này, chúng tôi có yêu cầu
 bạn tuân thủ theo những [quy tắc ứng xử](http://ruby.org.vn/code-of-conduct.html). 
 
-Hãy "Be Nice", cở mở và học hỏi lẫn nhau
+Hãy "Be Nice", cởi mở và học hỏi lẫn nhau
 
 ## Danh sách các mentor
 
