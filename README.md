@@ -9,14 +9,25 @@ hỏi đáp với mentor và cũng để tránh nhầm lẫn về mục đích
 của sự kiện.
 
 # RUBY + ELIXIR WEEKEND là gì?
-Đây là sự kiện nhằm giao lưu, tăng khả năng làm việc nhóm giữa những
-người có những kĩ năng khác nhau... TBD
+
+Đây là sự kiện nhằm giao lưu, gặp gỡ các dev trong và
+ngoài nước hiện đang công tác tại khu vực TPHCM.
+
+Sự kiện giúp tăng cường kiến thức kỹ thuật, tạo điều
+kiện để người tham gia có cơ hội trao đổi làm việc nhóm
+với các kỹ sư đến từ các mảng khác nhau, qua đó hi vọng
+người tham gia có được một cái nhìn toàn diện khi tiếp cận với một vấn đề, để có thể nhận định và đưa ra được lời giải đúng đắn nhất.
 
 ## Bạn sẽ nhận được gì từ sự kiện này?
-TBD
 
+* Kiến thức diện full stack
+* Kỹ năng làm việc theo nhóm / pair programming
+* Kết bạn với các kỹ sư giỏi và có kinh nghiệm
+* Cơ hội việc làm
+* Đồ ăn ngon
+* Môi trường tuyệt vời để code
 
-## Bạn cần chuẩn bị những gì
+## Bạn cần chuẩn bị những gì  
 
 Xin lưu ý sự kiện này không giống meetup, có nghĩa là
 sẽ không có một diễn giả trình bày về một chủ để nào cả.
@@ -46,7 +57,7 @@ nhiều giá trị học hỏi.
 Xin bạn giữ ý tránh làm phiền các bạn khác đang làm
 dự án và yêu cầu được làm việc riêng một mình.
 
-
+Xin hãy mang theo laptop để tránh bị thụ động!
 
 # Những chú ý
 
