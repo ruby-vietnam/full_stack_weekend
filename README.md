@@ -1,5 +1,7 @@
 # RUBY + ELIXIR WEEKEND
 
+![](http://i.giphy.com/HoffxyN8ghVuw.gif)
+
 Chào mừng các bạn đã đến tham gia sự kiện hôm nay.
 
 Xin các bạn tham khảo trước thông tin sau để tiện cho việc
