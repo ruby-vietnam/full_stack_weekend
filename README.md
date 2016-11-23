@@ -80,7 +80,7 @@ Hãy "Be Nice", cởi mở và học hỏi lẫn nhau
 
 Lưu ý: Cột đầu tiên là nick chat
 
-* @kimhieu - Kim Hiếu - Ruby/Java/Android/Backend
+* @kimhieu - Kim Hiếu - Android/Backend
 * @khailq - Khải - Ruby/Backend
 * @kiennt - Kiên - Python/Elixir/Backend
 * @minhdanh - Danh - Infrastructure
