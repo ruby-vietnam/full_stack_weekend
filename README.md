@@ -27,7 +27,7 @@ người tham gia có được một cái nhìn toàn diện khi tiếp cận v�
 * Đồ ăn ngon
 * Môi trường tuyệt vời để code
 
-## Bạn cần chuẩn bị những gì  
+## Sự kiện này khác gì meetup?
 
 Xin lưu ý sự kiện này không giống meetup, có nghĩa là
 sẽ không có một diễn giả trình bày về một chủ để nào cả.
@@ -58,6 +58,17 @@ Xin bạn giữ ý tránh làm phiền các bạn khác đang làm
 dự án và yêu cầu được làm việc riêng một mình.
 
 Xin hãy mang theo laptop để tránh bị thụ động!
+
+## Bạn cần chuẩn bị gì?
+
+Tối thiểu nhất là bạn cần mang laptop hoặc desktop (nếu nhỏ gọn)
+và một goal bạn muốn đạt được vào cuối ngày. Vd goal của bạn
+là học cách viết integration test cho một cái app của bạn chẳng
+hạn. Các mentor sẽ hướng dẫn bạn đạt được goal đó.
+
+Xin lưu ý, tránh đặt ra goal có scope quá lớn hơn với thời lượng
+của sự kiện. Hãy ráng xé nhỏ vấn đề của bạn thành nhiều vấn
+đề nhỏ hơn, viết ra một danh sách các câu hỏi bạn cần hỏi.
 
 # Những chú ý
 
@@ -143,4 +154,3 @@ Ngoài ra bạn có thể đăng câu hỏi trên #ruby_weekend chat room
 
 Nếu bạn có thắc mắc hoặc khiếu nại thì xin liên hệ trực
 tiếp với anh Thomas Vo (@thomas.vo) và anh Tuấn (@tuan) BTC
-
