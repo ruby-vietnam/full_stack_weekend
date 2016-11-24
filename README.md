@@ -83,13 +83,13 @@ Hãy "Be Nice", cởi mở và học hỏi lẫn nhau
 
 ### BTC
 
-* @thomas.vo - Tâm - Backend/Program Conductor <-- ask him anything if you don't know who could help
-* @tuan - Tuấn - People Skill/Event Coordinator
-* @thuypham - Thuý - Event Organiser
+| Chat Nick | Tên | Mảng đảm nhiệm |
+| --------- | --- | -------------- |
+| @thomas.vo | Tâm | Backend/Program Conductor |
+| @tuan | Tuấn | People Skill/Event Coordinator |
+| @thuypham | Thuy | Event Organiser / GetLink representative |
 
 ### Offline:
-
-Lưu ý: Cột đầu tiên là nick chat
 
 | Chat Nick | Tên | Mảng đảm nhiệm |
 | --------- | --- | -------------- |
@@ -107,11 +107,13 @@ Lưu ý: Cột đầu tiên là nick chat
 
 Thông qua chat room `#ruby_weekend` trên [chat.ruby.org.vn](http://chat.ruby.org.vn)
 
-* @tucq88 - Tú - PHP/frontend
-* @huytd - Huy - JS/frontend
-* @codeaholicguy - Hoàng - JS/frontend/backend
-* @tle - Trung - Ruby/Elixir
-* @rhacker - Ruby/Backend
+| Chat Nick | Tên | Mảng đảm nhiệm |
+| --------- | --- | -------------- |
+| @tucq88 | Tú | PHP/frontend |
+| @huytd | Huy | JS/frontend |
+| @codeaholicguy | Hoàng | JS/frontend/backend |
+| @tle | Trung | Ruby/Elixir |
+| @rhacker | | Ruby/Backend |
 
 ## Dùng ngôn ngữ gì?
 
@@ -122,7 +124,7 @@ muốn, miễn là người đầu kia hiểu ý bạn :D
 
 ## Các kênh liên lạc
 
-Có 2 kênh liên lạch chính với BTC, mentor và các bạn đến
+Có 2 kênh liên lạc chính với BTC, mentor và các bạn đến
 tham gia:
 
 * Online -- xin gia nhập vào chat.ruby.org.vn và vào room #ruby_weekend
