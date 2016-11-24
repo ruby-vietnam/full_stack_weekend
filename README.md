@@ -91,15 +91,17 @@ Hãy "Be Nice", cởi mở và học hỏi lẫn nhau
 
 Lưu ý: Cột đầu tiên là nick chat
 
-* @kimhieu - Kim Hiếu - Android/Backend
-* @khailq - Khải - Ruby/Backend
-* @kiennt - Kiên - Python/Elixir/Backend
-* @minhdanh - Danh - Infrastructure
-* @nongdenchet - Quân - Android/Backend
-* @khacanh - Ruby/Backend
-* @rebyn - Infrastructure
-* @unrealhoang - Ruby/Backend
-* @ledongthuc - Golang/Backend
+| Chat Nick | Tên | Mảng đảm nhiệm |
+| --------- | --- | -------------- |
+| @kimhieu | Kim Hiếu | Android/Backend |
+| @khailq | Khải | Ruby/Backend |
+| @kiennt | Kiên | Python/Elixir/Backend |
+| @minhdanh | Danh | Infrastructure |
+| @nongdenchet | Quân | Android/Backend |
+| @khacanh | Khắc Anh | Ruby/Backend |
+| @rebyn | :D | Infrastructure |
+| @unrealhoang | Hoàng | Ruby/Backend |
+| @ledongthuc | Thức | Golang/Backend |
 
 ### Online:
 
@@ -107,7 +109,7 @@ Thông qua chat room `#ruby_weekend` trên [chat.ruby.org.vn](http://chat.ruby.o
 
 * @tucq88 - Tú - PHP/frontend
 * @huytd - Huy - JS/frontend
-* @codeaholicguy - JS/frontend/backend
+* @codeaholicguy - Hoàng - JS/frontend/backend
 * @tle - Trung - Ruby/Elixir
 * @rhacker - Ruby/Backend
 
