@@ -127,7 +127,7 @@ muốn, miễn là người đầu kia hiểu ý bạn :D
 Có 2 kênh liên lạc chính với BTC, mentor và các bạn đến
 tham gia:
 
-* Online -- xin gia nhập vào chat.ruby.org.vn và vào room #ruby_weekend
+* Online -- xin gia nhập vào [chat.ruby.org.vn](http://chat.ruby.org.vn) và vào room `#ruby_weekend`
 * Offline -- gặp trực tiếp, mentor sẽ di chuyển qua nhiều
 bàn để trợ giúp các bạn nếu cần giúp đỡ, xin đừng ngần ngại
 dơ tay hỏi
@@ -140,7 +140,7 @@ với dự án của mình thì có thể tạo một GH Issue mới với link 
 [https://github.com/ruby-vietnam/full_stack_weekend/issues/new](https://github.com/ruby-vietnam/full_stack_weekend/issues/new)
 
 Sau khi tạo thì hãy copy URL của GH issue này và đăng vào chat
-room #ruby_weekend
+room `#ruby_weekend`
 
 ## Tìm trợ giúp ra sao?
 
@@ -151,7 +151,7 @@ hỏi phải xúc tích và có đủ 3 vế, input > processing > output
 Tuyệt đối tránh hỏi ngu vì lười, nếu bạn bị bí hoàn toàn thì
 hãy hỏi hướng để có thể cấu trúc được đúng câu hỏi.
 
-Ngoài ra bạn có thể đăng câu hỏi trên #ruby_weekend chat room
+Ngoài ra bạn có thể đăng câu hỏi trên `#ruby_weekend` chat room
 để nhận đc sự trợ giúp từ các mentor online
 
 ## Góp ý phản hồi ra sao?
